@@ -22,31 +22,6 @@ CSS – Styling and layout.
 
 JavaScript – Interactive features (smooth scrolling, voting, and staking alerts).
 
-Installation & Deployment
-
-Clone this repository:
-
-git clone https://github.com/YOUR-USERNAME/solucoin-website.git
-
-Navigate into the project folder:
-
-cd solucoin-website
-
-Open index.html in a web browser to preview the site.
-
-Hosting on GitHub Pages
-
-Push your code to a GitHub repository.
-
-Go to Settings > Pages.
-
-Under "Branch," select main and click "Save".
-
-Your site will be available at https://your-username.github.io/solucoin-website/.
-
-Contributing
-
-Feel free to fork this repository and submit pull requests for improvements.
 
 License
 
